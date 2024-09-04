@@ -79,6 +79,6 @@ Table formatting:
 | Cell 3       | Cell 4   | Cell 6   |
 
 ```{r}
-x<-5
+y<-5
 ```
 
